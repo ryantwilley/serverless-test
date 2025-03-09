@@ -1,0 +1,22 @@
+{
+  "name": "serverless-test",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryantwilley/serverless-test.git"
+  },
+  "author": "RT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryantwilley/serverless-test/issues"
+  },
+  "homepage": "https://github.com/ryantwilley/serverless-test#readme",
+  "devDependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
